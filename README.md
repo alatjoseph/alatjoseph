@@ -20,10 +20,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="python" width="40" height="40"/> </a> 
-<img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="python" width="40" height="40"/> </a> 
-<img src="https://avatars.githubusercontent.com/u/55202745?s=200&v=4" alt="python" width="40" height="40"/> </a>
-<img src="https://i1.wp.com/resocoder.com/wp-content/uploads/2020/08/blocsmol.png?w=694&ssl=1" alt="python" width="40" height="40"/> </a>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="dart" width="40" height="40"/> </a> 
+<img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter" width="40" height="40"/> </a> 
+<img src="https://i1.wp.com/resocoder.com/wp-content/uploads/2020/08/blocsmol.png?w=694&ssl=1" alt="bloc" width="40" height="40"/> </a>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" alt="bloc" width="40" height="40"/> </a>
+<img src="https://avatars.githubusercontent.com/u/55202745?s=200&v=4" alt="hive" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">

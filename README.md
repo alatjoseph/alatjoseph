@@ -1,5 +1,6 @@
 # ALAT JOSEPH 
 
+<img src="https://github.com/user-attachments/assets/7a30f8a1-ba37-44e2-af69-4ff8db10fb41" alt="dart" width="1000" height="250"/> </a> 
 <h1 align="center">Hi 👋, I'm Alat Joseph</h1>
 <h3 align="center">I am an aspiring Flutter Developer</h3>
 
